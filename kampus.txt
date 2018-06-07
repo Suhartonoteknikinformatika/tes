@@ -1,0 +1,4 @@
+Progdi : TI
+Jurusan : Informatika
+Fakultas : TIK
+Universitas : USM
